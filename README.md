@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since <br>📚 I'm currently learning  front end development</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning  front end development</p>
 
 ###
 
@@ -46,5 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" height="40" alt="nest logo"  />
 </div>
 
