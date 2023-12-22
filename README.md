@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning  front end development</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning  front-end development</p>
 
 ###
 
@@ -31,8 +31,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -45,9 +43,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" height="40" alt="nest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
