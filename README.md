@@ -30,6 +30,10 @@
 
 ###
 
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
